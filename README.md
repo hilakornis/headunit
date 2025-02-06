@@ -6,3 +6,5 @@ Unofficial port of Android Auto Headunit App to Mazda Connect CMU. The app makes
 
 The goal of this fork is to update the code to modernize it, and to use libprotobuf instead of manually parsing the messages so that it will be easier to add more complete integration with car systems.
 
+## For more instructions : 
+https://mazdatweaks.com/androidauto/#part-2
